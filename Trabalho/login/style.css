@@ -140,7 +140,7 @@ form {
     margin-top: 4rem;
     width: 100%;
     display: grid;
-    place-items: center stretch;
+    place-items: center;
 }
 
 button {
